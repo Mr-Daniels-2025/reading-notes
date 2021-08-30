@@ -9,6 +9,11 @@
 - Reading 7
 - Reading 8
 
+Introduction:
+
+Hello, I'm Dan Daniels. I'm originally from Jacksonville, Florida. I am a career changer with a focus on Front End Web Development.  
+I look forward to learning the best practices through my Code Fellows training..and beyond.
+
 ## This is a Heading 2
 
 The "growth mindset" is an optimistic, but realistic outlook and belief that we developers must have or create. We believe that our basic computer coding skills can be developed through consistent practice, hard work, asking questions and failing--then learning and understanding the correct way. Most of all, we understand that learning is a process; and in the world of coding, we strive to learn "how to learn", continuously. This belief creates resiliency and helps us to overcome the setbacks that are a part of learning and pushes us through what is called the "Learning Pit."
