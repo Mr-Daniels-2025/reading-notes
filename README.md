@@ -14,5 +14,5 @@
 
 ...python
 def new_func():
-print("Hello World")
+print('Hello World')
 ...
