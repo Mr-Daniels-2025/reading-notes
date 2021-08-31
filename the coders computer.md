@@ -24,60 +24,97 @@ Some of the more popular text editors include software like:  Notepad++, Text Wr
 This is a quick cheat sheet for commands to be used in the Terminal command line.
 
 Command: pwd
+
 What it means: Tells you what directory/folder you are in.
 
+
 Command: cd
+
 What it means: Change directory. The command allows you to change the directory.
 
+
 Command: cd ~
+
 What it means: Change directory to home.
 
+
 Command: cd ..
+
 What it means: Go back by one directory.
 
+
 Command: cd../..
+
 What it means: Move up two levels.
 
+
 Command: ls
+
 What it means: Lists everything in the directory you are viewing.
 
+
 Command: ls -a
+
 What it means: Lists everything in your current directory including all hidden files.
 
+
 Command: ls -l
+
 What it means: Ls -l displays file permissions, sizes and last updated date/time.
 
+
 Command: touche
+
 What it means: Creates a file.
 
+
 Command: mkdir
+
 What it means: Make new directory/folder.
 
+
 Command: open
+
 What it means: Open document or file.
 
+
 Command: cat
+
 What it means: Prints what is in the document.
 
+
 Command: mv
+
 What it means: Moves file or folder into a folder. Both folders have to be in the same directory.
 
+
 Command: mv FileName/FolderName ..
+
 What it means: Moves file or folder up by one directory.
 
+
 Command: cp
+
 What it means: Copy file.
 
+
 Command: cp -r
+
 What it means: Copy folder. ‘- r’ command makes sure that everything in the folder is copied.
 
+
 Command: rm
+
 What it means: Removes the file. This does not put the file to trash but completely removes it from the computer.
 
+
 Command: rm -r
+
 What it means: Removes a directory/folder and everything in it.
 
+
 Command: rmdir
+
 What it means: Removes a directory/folder. 
 
 
